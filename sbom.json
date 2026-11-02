@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-01T08:12:44Z",
+  "generated": "2026-11-02T23:31:46Z",
   "image": "solidcraft",
   "tags": {
     "latest-amd64": {
-      "app_version": "0.29.0",
+      "app_version": "0.30.1",
       "arch": "amd64",
-      "generated": "2026-11-01T08:12:09Z",
+      "generated": "2026-11-02T23:31:05Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -189,7 +189,7 @@
               "BSD2CLAUSE"
             ],
             "name": "FreeBSD-runtime",
-            "version": "15.1p5"
+            "version": "15.1p6"
           },
           {
             "licenses": [
@@ -266,7 +266,7 @@
               "BSD2CLAUSE"
             ],
             "name": "nginx",
-            "version": "1.30.6_6,3"
+            "version": "1.30.6_7,3"
           },
           {
             "licenses": [
