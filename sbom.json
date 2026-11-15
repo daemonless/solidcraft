@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-14T16:30:06Z",
+  "generated": "2026-11-15T09:13:41Z",
   "image": "solidcraft",
   "tags": {
     "latest-amd64": {
-      "app_version": "0.41.0",
+      "app_version": "0.42.0",
       "arch": "amd64",
-      "generated": "2026-11-14T16:29:28Z",
+      "generated": "2026-11-15T09:12:59Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -266,7 +266,7 @@
               "BSD2CLAUSE"
             ],
             "name": "nginx",
-            "version": "1.30.6_13,3"
+            "version": "1.30.6_16,3"
           },
           {
             "licenses": [
