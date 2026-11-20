@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-18T00:13:55Z",
+  "generated": "2026-11-20T12:59:28Z",
   "image": "solidcraft",
   "tags": {
     "latest-aarch64": {
-      "app_version": "0.44.1",
+      "app_version": "0.45.0",
       "arch": "aarch64",
-      "generated": "2026-11-18T00:12:53Z",
+      "generated": "2026-11-20T12:58:05Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -266,7 +266,7 @@
               "BSD2CLAUSE"
             ],
             "name": "nginx",
-            "version": "1.30.6_13,3"
+            "version": "1.30.6_18,3"
           },
           {
             "licenses": [
@@ -287,7 +287,7 @@
               "BSD2CLAUSE"
             ],
             "name": "pkg",
-            "version": "2.9.0"
+            "version": "2.9.2"
           }
         ],
         "go": [],
