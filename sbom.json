@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-27T23:28:55Z",
+  "generated": "2026-11-28T09:00:59Z",
   "image": "solidcraft",
   "tags": {
     "latest-amd64": {
-      "app_version": "0.51.1",
+      "app_version": "0.51.2",
       "arch": "amd64",
-      "generated": "2026-11-27T23:28:21Z",
+      "generated": "2026-11-28T09:00:21Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
